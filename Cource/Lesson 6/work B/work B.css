@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 1px;
+}
+h4{
+    text-align: center;
+    color: purple;
+}
+h1{
+    text-align: center;
+    color: aqua;
+}
+span{
+    font-style: oblique;
+}
+u{
+    font-weight: bold;
+}
+.contact-info{
+    padding: 16px;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 16pxs;
+}
+b{
+    font-weight: bold;
+}
+a{
+    font-weight: bold;
+    font-style: italic;
+}
+.description{
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 16pxs;
+}
+h2{
+    text-align: center;
+    color: burlywood;
+}
+.info{
+    padding-left: 210px;
+    background-image: url(1.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+}
