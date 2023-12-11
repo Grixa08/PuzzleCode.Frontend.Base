@@ -29,12 +29,12 @@ a{
     font-weight: bold;
     font-style: italic;
 }
-.description{
+.desscription{
     font-weight: bold;
     font-style: oblique;
     font-size: 16pxs;
 }
-h2{
+.a{
     text-align: center;
     color: burlywood;
 }
@@ -43,4 +43,22 @@ h2{
     background-image: url(1.jpg);
     height: 250px;
     background-repeat: no-repeat;
+}
+input{
+    width: 400px;
+    padding: 20px;
+    color: blueviolet;
+}
+input::placeholder{
+    padding-left: 20px;
+    color: green;
+    font-size: 20px
+}
+.b{
+    text-align: center;
+    color: blanchedalmond;
+    padding: 10px
+}
+.pps{
+    text-align: center;
 }

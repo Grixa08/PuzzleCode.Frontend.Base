@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container h1{
+    margin: 0;
+    padding: 0
+}
+li:nth-child(2n){
+    color: red;
+}
+ul li::marker{
+    color: pink;
+}
+input::placeholder{
+    color: blue;
+}
