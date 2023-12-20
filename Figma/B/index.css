@@ -248,6 +248,31 @@ margin-left: 64px;
    
 }
 .foot{
-     padding-top: 50px;
+    padding-top: 50px;
     padding-left: 933px;
+}
+.down1 button:hover{
+    background: #F6D086;
+    transition: 0.3s;
+}
+.down1 button:focus{
+    background: #C58D21;
+    transition: 0.3s;
+}
+.down1 button:active{
+    background: #A16C06;
+    transition: 0.3s;
+}
+.card:hover{
+    background: #F7C35F;
+    color: black;
+    transition: 0.3s;
+}
+.card:focus{
+    background: #6A8A6D;
+    transition: 0.3s;
+}
+.card:active{
+    background: #263C28;
+    transition: 0.3s;
 }
