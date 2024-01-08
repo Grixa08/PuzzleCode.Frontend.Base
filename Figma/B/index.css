@@ -276,3 +276,54 @@ margin-left: 64px;
     background: #263C28;
     transition: 0.3s;
 }
+.card4:hover{
+    border: 1px solid #F7C35F;
+    transform: translateY(-25px);
+}
+.card4:focus{
+    border: 1px solid #C58D21;
+    transform: scale(1, 1.2);
+}
+.card4:active{
+    border: 1px solid #A16C06;
+    transform: scale(0.8);
+}
+.header{
+    width: 1920px;
+    height: 110px;
+    flex-shrink: 0;
+    background: #334B35;
+}
+.nav2{
+    width: 197.461px;
+    height: 30.952px;
+    flex-shrink: 0;
+    padding-left: 241.13px;
+    padding-top: 39.86px;
+}
+nav{
+    display: inline;
+    color: #FFF;
+    font-family: Livvic;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.nav{
+    width: 802px;
+    height: 33px;
+    position: absolute;
+    top: 39px;
+    right: 267px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    list-style: none;
+}
+.nav1{
+    width: 53px;
+    height: 2px;
+    padding-left: 387px;
+}
