@@ -4,14 +4,13 @@
 }
 .down{
     background-image: url(images/1.png);
-    width: 1920px;
-    height: 954px;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 .mark{
     background-color: #334B35;
     display: flex;
-    width: 1920px;
-    height: 656px;
+    width: 100%;
     flex-direction: column;
     align-items: flex-start;
 }
